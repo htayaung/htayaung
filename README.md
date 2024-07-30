@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+I'm Htay Aung, a passionate .NET developer with a knack for creating efficient and scalable solutions. Currently exploring the realms of Azure DevOps and Generative AI.
+
+**Languages:** C#, Python, JavaScript, TypeScript, SQL  
+**Frameworks:** .NET, Flutter, Angular  
+**Tools:** Git, GitHub, Docker
+
+### 🚀 Latest Projects
+- **[Contact Manager](https://github.com/htayaung/dotnetcore_webapi_starter):** A web API project using C#, .NET Core, Clean Architecture and Repository Pattern.
+- **[Personal Expense Tracker](https://github.com/htayaung/personal-expense-tracker):** A simple project using C#, .NET Core, Blazor and Entity Framework Core.
+- **[MyTasks](https://github.com/htayaung/mytasks):** Demonstration project using C#, .NET Core, Blazor Server, Entity Framework Core.
+
+### 📚 Certifications
+- AWS Certified Cloud Practitioner
+- Completed "Agile Project Management" on Coursera
+- Completed "Google Data Analytics" on Coursera
+
 <!--
 **htayaung/htayaung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
