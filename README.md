@@ -7,9 +7,9 @@ I'm Htay Aung, a passionate .NET developer with a knack for creating efficient a
 **Tools:** Git, GitHub, Docker
 
 ### 🚀 Latest Projects
-- **[Contact Manager](https://github.com/htayaung/dotnetcore_webapi_starter):** A web API project using C#, .NET Core, Clean Architecture and Repository Pattern.
-- **[Personal Expense Tracker](https://github.com/htayaung/personal-expense-tracker):** A simple project using C#, .NET Core, Blazor and Entity Framework Core.
-- **[MyTasks](https://github.com/htayaung/mytasks):** Demonstration project using C#, .NET Core, Blazor Server, Entity Framework Core.
+- **[Contact Manager](https://github.com/htayaung/workspace-webapps/tree/main/ContactManager):** A web API project using C#, .NET Core, Clean Architecture and Repository Pattern.
+- **[Personal Expense Tracker](https://github.com/htayaung/workspace-webapps/tree/main/PersonalExpenseTracker):** A simple project using C#, .NET Core, Blazor and Entity Framework Core.
+- **[MyTasks](https://github.com/htayaung/workspace-webapps/tree/main/MyTasks):** Demonstration project using C#, .NET Core, Blazor Server, Entity Framework Core.
 
 ### 📚 Certifications
 - AWS Certified Cloud Practitioner
